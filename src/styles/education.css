@@ -1,0 +1,28 @@
+.seccion-title{
+    text-transform: uppercase;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #343a40;
+}
+.subheading{
+    font-family: 'Saira Extra Condensed',sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+h1,h2,h3{
+    text-transform: uppercase;
+}
+h3{
+    font-family: 'Saira Extra Condensed',sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #343a40 !important;
+}
+.text-primary{
+    color:#0e3658 !important;
+}
+.double-item{
+    line-height: 1;
+}

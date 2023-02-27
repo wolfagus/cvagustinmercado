@@ -1,0 +1,19 @@
+.dev-icons{
+    font-size: 3rem;
+    list-style: none;
+    display:flex;
+    flex-wrap: wrap;
+}
+.dev-icon:hover{
+    transform: scale(1.5);
+}
+.dev-icon-name{
+    font-size: 12px;
+    text-align: center;
+}
+.dev-icon{
+    margin-right: 2rem;
+}
+.u-list{
+    list-style: none;
+}
