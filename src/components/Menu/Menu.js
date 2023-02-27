@@ -47,14 +47,14 @@ const Menu = () => {
                     <Link to='/' className='item'>About me</Link>
                     <Link to='/education' className='item'>Education</Link>
                     <Link to='/skills' className='item'>Skills</Link>
-                    <a href='https://drive.google.com/file/d/1pjJPW52gPanSDDXmj2s_8Joxi9B57DzH/view?usp=sharing' className='item' target='_blank'>PDF version</a>
+                    <a href='https://drive.google.com/file/d/1Bge9qSwRijgs8QeLcG_cFC-GYa8ddR2v/view' className='item' target='_blank'>PDF version</a>
                 </>
                 :
                 <>
                     <Link to='/' className='item'>Sobre mí</Link>
                     <Link to='/education' className='item'>Educación</Link>
                     <Link to='/skills' className='item'>Habilidades</Link>
-                    <a href='https://drive.google.com/file/d/1pjJPW52gPanSDDXmj2s_8Joxi9B57DzH/view?usp=sharing' className='item' target='_blank'>Versión en PDF</a>
+                    <a href='https://drive.google.com/file/d/1Bge9qSwRijgs8QeLcG_cFC-GYa8ddR2v/view' className='item' target='_blank'>Versión en PDF</a>
                 </>
                 }
                 <div className='d-inline'>
